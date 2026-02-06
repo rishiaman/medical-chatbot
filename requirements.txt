@@ -1,0 +1,13 @@
+uvicorn
+fastapi
+langchain-core
+langchain
+langchain-community
+langchain-ollama
+langsmith
+langserve
+streamlit
+python-dotenv
+requests
+sse_starlette
+
